@@ -11412,14 +11412,14 @@ pre .code {
       -ms-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
   -weblit-transform: translate(-50%, -50%);
-  border: 10px solid white;
+  border: 7px solid white;
   -webkit-transition: .5s !important;
   transition: .5s !important;
   -weblit-transition: .5s !important;
   z-index: 2;
   box-shadow: 0 5px 1px rgba(128, 128, 128, 0.13);
-  width: 170px;
-  border-radius: 50%;
+  width: 150px;
+  border-radius: 20%;
 }
 
 .navbar .brand .brand-txt {
